@@ -1,0 +1,2 @@
+13.225.183.20  api.themoviedb.org
+99.84.203.9  api.themoviedb.org
